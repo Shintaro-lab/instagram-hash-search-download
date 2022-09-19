@@ -6,11 +6,12 @@ property.jsonに検索したいワード、instagram-id(graph apiの利用登録
 フォルダ体系は下記とすること。
 
     
-app-dat(エクセルファイルの出力先)  
-   -etc（propertyファイルの格納先）  
-   -image（画像のダウンロード先）  
-   -src（pythonプログラムの格納先）  
-   -tmp（中間ファイルの出力先）  
+-app
+  -dat(エクセルファイルの出力先)  
+  -etc（propertyファイルの格納先）  
+  -image（画像のダウンロード先）  
+  -src（pythonプログラムの格納先）  
+  -tmp（中間ファイルの出力先）  
     
 
 # 環境
